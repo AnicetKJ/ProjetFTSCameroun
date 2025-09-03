@@ -1,4 +1,4 @@
-# FTS Cameroun — Prédiction du financement humanitaire par cluster
+# FTS Cameroun — Etude du financement humanitaire par catégorie
 
 📊 **Projet Data & Machine Learning end-to-end**  
 Ce projet utilise les données du **Financial Tracking Service (FTS)** concernant les **besoins** et le **financement** humanitaire au Cameroun (par cluster mondial et par année).  
