@@ -1,0 +1,181 @@
+countryCode,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#sector+cluster+code,#sector+cluster+name,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,26480,Coordination and support services,14048886,4171999,30
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,3,Education,20470965,987300,5
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,4,Emergency Shelter and NFI,22124343,3619051,16
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,6,Food Security,92803509,10015469,11
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,7,Health,27716414,4108451,15
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,26479,Multi-sector,89889762,5484710,6
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,16,Multipurpose Cash,3984186,1692395,42
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,9,Nutrition,28062243,3852990,14
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,26481,Other,,1580922,
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,10,Protection,7224377,3345439,46
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,12,Protection - Child Protection,13818311,1743144,13
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,13,Protection - Gender-Based Violence,21463852,10123323,47
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,14,"Protection - Housing, Land and Property",1509867,18250,1
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,11,Water Sanitation Hygiene,16181609,690620,4
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,,Not specified,,2891168,
+CMR,1266,Cameroon Humanitarian Response Plan 2025,HCMR25,2025-01-01,2025-12-31,2025,,Multiple clusters/sectors (shared),,5829946,
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,26512,Agriculture,5802615,46198,1
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,1,Camp Coordination / Management,1133802,9027,1
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,26480,Coordination and support services,16243382,10565832,65
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,2,Early Recovery,714715,,
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,3,Education,23922907,8538308,36
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,4,Emergency Shelter and NFI,29144058,10403381,36
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,6,Food Security,85252937,42518366,50
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,7,Health,35545975,15612533,44
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,26479,Multi-sector,37112502,8144784,22
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,9,Nutrition,28111746,6159226,22
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,26481,Other,,796958,
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,10,Protection,23583134,14081728,60
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,12,Protection - Child Protection,17707023,4167888,24
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,13,Protection - Gender-Based Violence,39410584,11060994,28
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,14,"Protection - Housing, Land and Property",7933513,56350,1
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,11,Water Sanitation Hygiene,19750830,8843958,45
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,,Not specified,,762914,
+CMR,1159,Cameroon Humanitarian Response Plan 2024,HCMR24,2024-01-01,2024-12-31,2024,,Multiple clusters/sectors (shared),,28356950,
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,26512,Agriculture,67568,,
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,26480,Coordination and support services,27693660,15070623,54
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,2,Early Recovery,12259644,1433761,12
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,3,Education,34581907,4020674,12
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,4,Emergency Shelter and NFI,38457898,10359689,27
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,6,Food Security,118516041,30876339,26
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,7,Health,33790284,19652908,58
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,26479,Multi-sector,9259957,4827197,52
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,9,Nutrition,25048163,9106211,36
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,10,Protection,28160396,17293215,61
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,12,Protection - Child Protection,16318946,3728768,23
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,13,Protection - Gender-Based Violence,18131206,8656799,48
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,14,"Protection - Housing, Land and Property",6263690,636133,10
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,11,Water Sanitation Hygiene,38760509,10965666,28
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,,Not specified,,553965,
+CMR,1115,Cameroon Humanitarian Response Plan 2023,HCMR23,2023-01-01,2023-12-31,2023,,Multiple clusters/sectors (shared),,3297048,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,26512,Agriculture,207800,,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,26480,Coordination and support services,24740847,10094907,41
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,2,Early Recovery,19047164,4860192,26
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,3,Education,29239297,16645862,57
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,4,Emergency Shelter and NFI,20388011,9219032,45
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,6,Food Security,117333715,77769431,66
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,7,Health,28526647,22100378,77
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,8,Logistics,,2683363,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,26479,Multi-sector,9570763,5938684,62
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,9,Nutrition,33229802,7191476,22
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,26481,Other,,0,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,10,Protection,16491671,6915106,42
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,12,Protection - Child Protection,22875967,5861555,26
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,13,Protection - Gender-Based Violence,19757761,5409172,27
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,14,"Protection - Housing, Land and Property",1720100,2208061,128
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,26546,Protection - Human Trafficking & Smuggling,56000,,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,15,Protection - Mine Action,56000,,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,11,Water Sanitation Hygiene,32804506,4016030,12
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,,Not specified,,12038811,
+CMR,1080,Cameroon Humanitarian Response Plan 2022,HCMR22,2022-01-01,2022-12-31,2022,,Multiple clusters/sectors (shared),,13626521,
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,26512,Agriculture,4171041,,
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,26513,COVID-19,,0,
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,26480,Coordination and support services,15801626,13393306,85
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,2,Early Recovery,16418273,2932786,18
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,3,Education,24981097,7205083,29
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,4,Emergency Shelter and NFI,16768553,3575513,21
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,6,Food Security,131117212,45853336,35
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,7,Health,18358728,19470972,106
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,8,Logistics,1814485,198351,11
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,26479,Multi-sector,8679200,5169913,60
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,16,Multipurpose Cash,,1000000,
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,9,Nutrition,29374571,8921358,30
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,10,Protection,18304184,6541698,36
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,12,Protection - Child Protection,27051378,3196429,12
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,13,Protection - Gender-Based Violence,20865058,1064965,5
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,11,Water Sanitation Hygiene,27848909,7109003,26
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,,Not specified,,48487842,
+CMR,1030,Cameroon Humanitarian Response Plan  2021,HCMR21,2021-01-01,2021-12-31,2021,,Multiple clusters/sectors (shared),,20814137,
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,26513,COVID-19,,695827,
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,26480,Coordination and support services,10798173,6377280,59
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,2,Early Recovery,7719115,3737528,48
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,3,Education,26928729,3955476,15
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,4,Emergency Shelter and NFI,12817152,5314283,41
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,6,Food Security,87903013,56039416,64
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,7,Health,31880242,16293746,51
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,26479,Multi-sector,102802193,29459014,29
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,9,Nutrition,23437833,4291137,18
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,10,Protection,23221847,4207518,18
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,12,Protection - Child Protection,16617955,1809173,11
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,13,Protection - Gender-Based Violence,17402872,3032151,17
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,11,Water Sanitation Hygiene,29282133,6527635,22
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,,Not specified,,29194109,
+CMR,927,Cameroon Humanitarian Response Plan 2020,HCMR20,2020-01-01,2020-12-31,2020,,Multiple clusters/sectors (shared),,22357755,
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,26480,Coordination and support services,7720147,3981218,52
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,2,Early Recovery,15393985,1759924,11
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,3,Education,16445112,2858974,17
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,4,Emergency Shelter and NFI,12230510,3242733,27
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,6,Food Security,60904086,30461858,50
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,7,Health,12678582,1807242,14
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,8,Logistics,,0,
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,26479,Multi-sector,122453608,26911187,22
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,10,Protection,35876060,13072011,36
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,11,Water Sanitation Hygiene,15180279,3521063,23
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,,Not specified,,35401920,
+CMR,718,Cameroun Plan de Réponse Humanitaire 2019,HCMR19,2019-01-01,2019-12-31,2019,,Multiple clusters/sectors (shared),,6737965,
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,1,Camp Coordination / Management,1209807,0,0
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,26480,Coordination and support services,7544291,4157085,55
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,2,Early Recovery,32478031,9310311,29
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,3,Education,17158368,3017233,18
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,4,Emergency Shelter and NFI,11807137,2568470,22
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,6,Food Security,67124612,49480512,74
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,7,Health,16212189,4576762,28
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,26479,Multi-sector,94357546,9222395,10
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,9,Nutrition,22847788,8096018,35
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,10,Protection,12151053,7079745,58
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,12,Protection - Child Protection,6861479,740741,11
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,13,Protection - Gender-Based Violence,5540527,0,0
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,14,"Protection - Housing, Land and Property",114977,,
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,11,Water Sanitation Hygiene,24268648,8194106,34
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,,Not specified,,29103087,
+CMR,640,Cameroun Plan de Réponse Humanitaire 2018,HCMR18,2018-01-01,2018-12-31,2018,,Multiple clusters/sectors (shared),,8764541,
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,26512,Agriculture,,1611801,
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,26480,Coordination and support services,6850123,6577782,96
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,2,Early Recovery,22776138,9198874,40
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,3,Education,10407718,4069413,39
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,4,Emergency Shelter and NFI,4320611,1769012,41
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,6,Food Security,59226536,37537456,63
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,7,Health,10686741,4335181,41
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,26479,Multi-sector,82537901,7563978,9
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,9,Nutrition,13603962,7938979,58
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,10,Protection,10388868,8527791,82
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,15,Protection - Mine Action,100000,,
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,11,Water Sanitation Hygiene,17196073,6691767,39
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,,Not specified,,19918734,
+CMR,537,Cameroon 2017,HCMR17,2017-01-01,2017-12-31,2017,,Multiple clusters/sectors (shared),,1769314,
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,26512,Agriculture,2362791,2023663,86
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,26480,Coordination and support services,5670567,6091827,107
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,2,Early Recovery,6520996,7881618,121
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,3,Education,6272526,1739266,28
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,4,Emergency Shelter and NFI,5622480,1201898,21
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,6,Food Security,77152299,62178961,81
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,7,Health,23603734,17344765,73
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,26479,Multi-sector,84498024,12835227,15
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,10,Protection,9160585,6497274,71
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,11,Water Sanitation Hygiene,11345683,7616433,67
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,,Not specified,,34000321,
+CMR,490,Cameroon 2016,HCMR16,2016-01-01,2016-12-31,2016,,Multiple clusters/sectors (shared),,0,
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,26512,Agriculture,2498400,769529,31
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,26480,Coordination and support services,2818929,326797,12
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,2,Early Recovery,250000,,
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,3,Education,12181026,2165268,18
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,6,Food Security,33913750,20612249,61
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,7,Health,52898735,7817633,15
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,26479,Multi-sector,137354418,79503488,58
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,10,Protection,5400000,3200039,59
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,11,Water Sanitation Hygiene,16708199,1607559,10
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,,Not specified,,13244399,
+CMR,466,Cameroun Plan de Réponse Stratégique 2015,HCMR15,2015-01-01,2015-12-31,2015,,Multiple clusters/sectors (shared),,0,
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,26512,Agriculture,868986,850484,98
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,26480,Coordination and support services,394732,,
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,2,Early Recovery,0,,
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,3,Education,0,848493,
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,6,Food Security,3161168,3330866,105
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,7,Health,7087433,5442018,77
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,26479,Multi-sector,102845292,40296169,39
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,10,Protection,4351555,1172879,27
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,11,Water Sanitation Hygiene,7061060,1489686,21
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,,Not specified,,19800238,
+CMR,446,Cameroun Plan de Réponse Stratégique 2014,HCMR14,2014-01-01,2014-12-31,2014,,Multiple clusters/sectors (shared),,0,
