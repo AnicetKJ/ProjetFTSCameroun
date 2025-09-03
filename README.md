@@ -9,13 +9,13 @@ L’objectif est de **prédire le taux de financement futur par cluster** afin d
 ## 🎯 Objectif métier
 - **Contexte** : Les appels humanitaires des Nations Unies présentent souvent un écart important entre les besoins exprimés (requirements) et les financements effectivement reçus (funding).  
 - **Problème** : Anticiper ces écarts permet de mieux planifier les actions de plaidoyer et d’orienter les financements vers les clusters les plus vulnérables.  
-- **Question posée** : Peut-on prédire le **taux de financement (`funding_rate`)** ou l’**écart de financement (`gap`)** pour l’année suivante, à partir de l’historique ?
+- **Question posée** : Peut-on prédire le **taux de financement** ou l’**écart de financement** pour l’année suivante, à partir de l’historique ?
 
 ---
 
 ## 📂 Données
 Source : **FTS — OCHA (Financial Tracking Service)**  
-- **Granularité** : par *global cluster* × année, Cameroun uniquement.  
+- **Granularité** : par *cluster* par année, Cameroun uniquement.  
 - **Variables clés** :
   - `requirements` : besoins exprimés (USD)
   - `funding` : financement reçu (USD)
@@ -27,7 +27,7 @@ Source : **FTS — OCHA (Financial Tracking Service)**
 
 ---
 
-## 🔧 Pipeline ML
+## 🔧 Pipeline ML (ce qui m'est proposé)
 
 1. **Exploration des données (EDA)**
    - Évolution des besoins et financements par année.
@@ -98,3 +98,64 @@ Source : **FTS — OCHA (Financial Tracking Service)**
 ---
 
 ✍️ Réalisé par Anicet Diderot K. KADJI — *Data Enthusiast*  
+
+
+
+Ces catégories (clusters) représentent les différents secteurs humanitaires qui demandent des financements au Cameroun. Je vais les regrouper ici par thématiques principales :
+
+1. **Services de base**
+   - `Water Sanitation Hygiene` (Eau, Assainissement, Hygiène)
+   - `Health` (Santé)
+   - `Education` (Education)
+   - `Nutrition` (Nutrition)
+   - `Food Security` (Sécurité alimentaire)
+
+2. **Protection & Services sociaux**
+   - `Protection` (général)
+   - `Protection - Child Protection` (Protection de l'enfance)
+   - `Protection - Gender-Based Violence` (Violence basée sur le genre)
+   - `Protection - Housing, Land and Property` (Logement, Terre et Propriété)
+   - `Protection - Human Trafficking & Smuggling` (Traite des êtres humains)
+   - `Protection - Mine Action` (Déminage)
+
+3. **Infrastructure & Logistique**
+   - `Emergency Shelter and NFI` (Abris d'urgence et biens non alimentaires)
+   - `Logistics` (Logistique)
+   - `Camp Coordination / Management` (Gestion des camps)
+
+4. **Support & Coordination**
+   - `Coordination and support services` (Services de coordination)
+   - `Multi-sector` (Multi-secteurs)
+   - `Multipurpose Cash` (Aide monétaire polyvalente)
+
+5. **Relèvement & Développement**
+   - `Agriculture` (Agriculture)
+   - `Early Recovery` (Relèvement précoce)
+
+6. **Autres**
+   - `COVID-19` (Réponse COVID-19)
+   - `Not specified` (Non spécifié)
+   - `Multiple clusters/sectors (shared)` (Clusters/secteurs multiples)
+   - `Other` (Autres)
+
+Pour voir quels secteurs demandent régulièrement des financements, je suggère d'ajouter ce code :
+
+````python
+# Analyser les demandes de financement par cluster
+cluster_analysis = df.groupby('cluster').agg({
+    'requirements': ['count', 'mean', 'sum'],
+    'percentFunded': 'mean'
+}).round(2)
+
+# Trier par nombre de demandes (count) décroissant
+cluster_analysis = cluster_analysis.sort_values(('requirements', 'count'), ascending=False)
+
+print("Analyse des demandes de financement par cluster:")
+print(cluster_analysis)
+````
+
+Cela nous montrera :
+- Combien de fois chaque secteur a demandé des financements
+- Le montant moyen demandé par secteur
+- Le montant total demandé par secteur
+- Le taux moyen de financement obtenu
