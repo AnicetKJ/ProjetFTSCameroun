@@ -1,0 +1,11 @@
+year,cluster,clustercode,requirements,funding,percentfunded
+2018,Global cluster A,GA,100000,50000,50
+2019,Global cluster A,GA,110000,60000,54.5
+2020,Global cluster A,GA,120000,70000,58.3
+2021,Global cluster A,GA,130000,80000,61.5
+2022,Global cluster A,GA,140000,90000,64.3
+2018,Global cluster B,GB,80000,40000,50
+2019,Global cluster B,GB,85000,42000,49.4
+2020,Global cluster B,GB,90000,45000,50
+2021,Global cluster B,GB,95000,48000,50.5
+2022,Global cluster B,GB,100000,55000,55

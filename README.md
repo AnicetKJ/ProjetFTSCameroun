@@ -1,2 +1,12 @@
-# ProjetFTSCameroun
-Projet ML end-to-end 1 - Il aura pour but d'utiliser des notions de ML apprises pour anticiper le taux de financement (ou l’écart de financement) par catégorie (global cluster) au Cameroun pour l’année suivante, afin d’identifier à l’avance les clusters à risque d’être sous-financés.
+# Projet FTS Cameroun
+
+Projet ML end-to-end pour anticiper le taux de financement par global cluster au Cameroun.
+
+Contenu:
+- `notebook_ml1.ipynb` : notebook principal
+- `fts_requirements_funding_globalcluster_cmr.csv` : example dataset
+- `annual_summary.csv` : example aggregated data
+
+Usage:
+- Installer les dépendances listées dans `requirements.txt`
+- Ouvrir `notebook_ml1.ipynb` avec Jupyter / VSCode
