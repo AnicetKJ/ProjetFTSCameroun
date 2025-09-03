@@ -99,7 +99,7 @@ Source : **FTS — OCHA (Financial Tracking Service)**
 
 ✍️ Réalisé par Anicet Diderot K. KADJI — *Data Enthusiast*  
 
-
+---
 
 Ces catégories (clusters) représentent les différents secteurs humanitaires qui demandent des financements au Cameroun. Je vais les regrouper ici par thématiques principales :
 
@@ -137,25 +137,3 @@ Ces catégories (clusters) représentent les différents secteurs humanitaires q
    - `Not specified` (Non spécifié)
    - `Multiple clusters/sectors (shared)` (Clusters/secteurs multiples)
    - `Other` (Autres)
-
-Pour voir quels secteurs demandent régulièrement des financements, je suggère d'ajouter ce code :
-
-````python
-# Analyser les demandes de financement par cluster
-cluster_analysis = df.groupby('cluster').agg({
-    'requirements': ['count', 'mean', 'sum'],
-    'percentFunded': 'mean'
-}).round(2)
-
-# Trier par nombre de demandes (count) décroissant
-cluster_analysis = cluster_analysis.sort_values(('requirements', 'count'), ascending=False)
-
-print("Analyse des demandes de financement par cluster:")
-print(cluster_analysis)
-````
-
-Cela nous montrera :
-- Combien de fois chaque secteur a demandé des financements
-- Le montant moyen demandé par secteur
-- Le montant total demandé par secteur
-- Le taux moyen de financement obtenu
